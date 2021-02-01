@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/graphql/graphiql/compare/graphiql@1.3.2...graphiql@1.4.0) (2021-02-01)
+
+### Bug Fixes
+
+- unify how observables are consumed within GraphiQL ([#1762](https://github.com/graphql/graphiql/issues/1762)) ([ac90aca](https://github.com/graphql/graphiql/commit/ac90aca789daf9c5a1430ede777e15333bf68524))
+
+### Features
+
+- [@defer](https://github.com/defer), [@stream](https://github.com/stream), websockets support in a createGraphiQLFetcher utility ([#1770](https://github.com/graphql/graphiql/issues/1770)) ([766c9c3](https://github.com/graphql/graphiql/commit/766c9c33e4c45524f5fa21cf873e5220600021e7))
+
 ## [1.3.2](https://github.com/graphql/graphiql/compare/graphiql@1.3.1...graphiql@1.3.2) (2021-01-07)
 
 **Note:** Version bump only for package graphiql
